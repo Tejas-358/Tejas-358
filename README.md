@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @Tejas-358
-- 👀 I’m interested in Artificial Intelligence based programming and also intrigued of 3D Modelling
-- 🌱 I’m currently learning Python at Intermediate level and also a side task of learning to create high level 3D models 
-- 📫 How to reach me => Email : tejasdalvi927@gmail.com
--                        Linkedin : https://www.linkedin.com/in/tejas-dalvi-74515a221/
+### Hi there 👋, Tejas Dalvi
+#### *2nd Year BTech student*
+I am Tejas Dalvi and I do basic level programming in different languages
+I am also interested in 3D modelling and do make some models in Blender 3D
+
+Skills: Python / Java / C /HTML  
+
+- 🌱 I’m currently learning Python and C 
