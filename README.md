@@ -10,5 +10,4 @@ I am also interested in 3D modelling and do make some models in Blender 3D
 
 ## Examples of Work : 
 
-https://user-images.githubusercontent.com/92875852/175923497-50b34341-75f0-4740-9324-c7b2330c0d43.mp4
 
