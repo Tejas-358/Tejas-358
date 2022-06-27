@@ -13,3 +13,4 @@ I am also interested in 3D modelling and do make some models in Blender 3D
 <img src="https://github.com/Tejas-358/Tejas-358/blob/main/Silver.jpg" width=200>
 <img src="https://github.com/Tejas-358/Tejas-358/blob/main/color.jpg" width=400>
 <img src="https://github.com/Tejas-358/Tejas-358/blob/main/stars2.jpg", width=200>
+<img src="https://github.com/Tejas-358/Tejas-358/blob/main/gold%20bull.jpg", width=200>
