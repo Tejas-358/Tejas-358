@@ -1,6 +1,6 @@
 ### Hi there 👋, Tejas Dalvi
-#### *2nd Year BTech student*
-I am Tejas Dalvi and I do basic level programming in different languages
+#### *3rd Year BTech student*
+I am Tejas Dalvi and I do basic level programming in different languages also having experience in Artificial Intelligence, Machine Learning, Computer Vision and Natural Language Processing Techniques
 I am also interested in 3D modelling and do make some models in Blender 3D
 
 ## Skills and Experience :
