@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Tejas Dalvi</h1>
 <h3 align="center">A passionate AI Student from India</h3>
 <img align = "right" alt = "Coding" wisth = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -18,15 +17,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tejas_927" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tejas_927" height="30" width="40" /></a>
-  
-<a href="https://www.linkedin.com/in/tejas-dalvi-ai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tejas-dalvi-ai/" height="30" width="40" /></a>
-  
+<a href="https://www.linkedin.com/in/tejas-dalvi-ai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tejas-dalvi-ai/" height="30" width="40" /></a>  
 <a href="https://www.kaggle.com/kryptex35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/kryptex35" height="30" width="40" /></a>
-  
 <a href="https://instagram.com/kryptex_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kryptex_03" height="30" width="40" /></a>
-  
 <a href="https://medium.com/@tejasdalvi927" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ai enthusiast extraordinaire" height="30" width="40" /></a>
-  
 <a href="https://www.hackerrank.com/tejas_53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/tejas_53" height="30" width="40" /></a>
 </p>
 
