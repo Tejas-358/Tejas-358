@@ -5,12 +5,6 @@
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400">
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/tejas_927" target="blank">
-    <img src="https://img.shields.io/twitter/follow/tejas_927?logo=twitter&style=for-the-badge" alt="tejas_927" />
-  </a>
-</p>
-
 ### About Me
 
 - 📝 I regularly write articles about AI topics on [Medium](https://medium.com/@tejasdalvi927).
