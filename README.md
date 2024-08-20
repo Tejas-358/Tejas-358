@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles about AI topics on [Medium](https://medium.com/@tejasdalvi927).
 - 📫 Reach out to me at **tejasdalvi927@gmail.com**.
-- 📄 Learn more about my experiences on [Linktree](https://linktr.ee/Tejas_358).
+- 📄 Learn more about my experiences on [Linktree](https://linktr.ee/Tejas_Dalvi).
 - ⚡ Fun fact: **I think I'm funny.**
 
 ### Connect with Me
