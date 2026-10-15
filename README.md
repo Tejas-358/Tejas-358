@@ -16,7 +16,7 @@ I'm particularly interested in how biologically inspired neural architectures ca
 
 ## 🔬 Current Research
 
-### Brain-Inspired Agentic AI: Spiking Neural Networks for Autonomous and Adaptive Intelligence
+### Brain-Inspired Agentic AI: Spiking Neural Networks for Autonomous and Adaptive Intelligence [In Progress]
 
 My Master's thesis explores the design of an agentic architecture built around Spiking Neural Networks, investigating how brain-inspired computation and learning mechanisms can support autonomous decision-making.
 
@@ -44,9 +44,9 @@ A comparative investigation of spike-encoding threshold mechanisms, exploring ho
 
 The project considers three approaches:
 
-- **Fixed threshold encoding** — uses a constant firing threshold.
-- **STAL** — an adaptive threshold mechanism intended to regulate neuronal activity.
-- **LT-SNN** — a learnable-threshold spiking neural network approach.
+- **Fixed threshold encoding** - uses a constant firing threshold.
+- **STAL** - an adaptive threshold mechanism intended to regulate neuronal activity.
+- **LT-SNN** - a learnable-threshold spiking neural network approach.
 
 The evaluation covers image classification using MNIST and audio classification using Google Speech Commands. An earlier phase also investigated STAL on MNIST and CREMA-D emotional speech.
 
@@ -130,7 +130,7 @@ The concept combines conversational interaction with an environmental-awareness 
 
 ---
 
-### 6. Crazyflie Drone Surprisal — Autonomous Multi-Drone Robotics
+### 6. Crazyflie Drone Surprisal — Autonomous Multi-Drone Robotics [In Progress]
 
 **Area:** Robotics · Autonomous Systems · Simulation and Real-World Experimentation
 
@@ -189,9 +189,7 @@ I'm particularly interested in the following research questions:
 I'm interested in connecting with researchers and students working on brain-inspired AI, neuromorphic computing, spiking neural networks, agentic systems, neurotechnology, and intelligent robotics.
 
 - **LinkedIn:** [linkedin.com/in/tejasdalvi358](https://www.linkedin.com/in/tejasdalvi358/)
-- **Portfolio:** [tejas-358.github.io/Portfolio](https://tejas-358.github.io/Portfolio/)
 - **Medium:** [@tejasdalvi927](https://medium.com/@tejasdalvi927)
-- **Kaggle:** [kaggle.com/kryptex35](https://www.kaggle.com/kryptex35)
 
 ---
 
